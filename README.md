@@ -1,15 +1,6 @@
-### Hi! I'm Mark Gacoka
+## Hello World!
 ---
 [![Gacoka's Github stats](https://github-readme-stats.vercel.app/api?username=markgacoka&theme=blue-green)](https://github.com/markgacoka/github-readme-stats)
-
-<p align="center">
-    <a href="https://twitter.com/markgacoka" alt="Twitter Follow">
-        <img src="https://img.shields.io/twitter/follow/markgacoka.svg?style=social" /></a>
-    <a href="https://opensource.org/" alt="Open Source">
-        <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" /></a>
-    <a href="http://commonmark.org" alt="made-with-Markdown">
-        <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" /></a>
-</p>
 
 ```python
 class Profile:
@@ -35,6 +26,11 @@ if __name__=='__main__':
 
 ```
 
-:email: markgacoka@gmail.com
-
-:school: Minerva Schools at KGI
+<p align="left">
+    <a href="https://twitter.com/markgacoka" alt="Twitter Follow">
+        <img src="https://img.shields.io/twitter/follow/markgacoka.svg?style=social" /></a>
+    <a href="https://opensource.org/" alt="Open Source">
+        <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" /></a>
+    <a href="http://commonmark.org" alt="made-with-Markdown">
+        <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" /></a>
+</p>
