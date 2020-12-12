@@ -20,7 +20,7 @@ class Profile:
     
     
 if __name__=='__main__':
-  gacoka = Profile("Mark Gacoka", 20, ["Python", "Bash", "Javascript"])
+  gacoka = Profile("Mark Gacoka", 20, ["Python", "Bash", "Flutter"])
   print(gacoka)
   print(gacoka.introduction())
 
