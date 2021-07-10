@@ -1,4 +1,4 @@
-## Hello World!
+## Greetings!
 ---
 [![Gacoka's Github stats](https://github-readme-stats.vercel.app/api?username=markgacoka&theme=blue-green)](https://github.com/markgacoka/github-readme-stats)
 
