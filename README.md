@@ -10,10 +10,4 @@
 - 📫 Contact: mark@cysuite.io 
 - 🌐 Visit my [Porfolio website](https://markgacoka.com).
 
----
-### Github Activity
-[![Gacoka's Github stats](https://github-readme-stats.vercel.app/api?username=markgacoka&theme=blue-green)](https://github.com/markgacoka/github-readme-stats)
-
-### 💻 Technologies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markgacoka&hide=javascript,css,scss,html&theme=tokyonight)
 
