@@ -8,7 +8,7 @@
 
 🏗️ Currently building a source code visualizer
 
-📙 Recently started learning machine learning
+📙 Reads: Probabilistic machine learning, Blitzscaling
 
 ⤷ Previous projects include 
 1. **Recap** - a centralized knowledge dashboard for article summaries and video transcripts
